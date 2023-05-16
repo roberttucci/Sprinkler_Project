@@ -7,6 +7,10 @@ and additions to the HA sensors.yaml, binary_sensor.yaml, and configuration.yaml
 
 The files will need to be tweaked to support your entity naming and such.
 
+The HA Lovelace code will also need to be edited to match the entity names to match your HA entity assignments.
+
+
+
 
 
 ![image](https://github.com/roberttucci/Sprinkler_Project/assets/88236450/44843f6d-1542-4804-8228-660d51de9b4e)
