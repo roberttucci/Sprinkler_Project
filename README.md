@@ -13,6 +13,7 @@ You will probably need to download the schematic files to your PC to zoom in to 
 
 
 Approximate Bill of Materials:
+
 1 ESP32-WROVER
 
 1 Dafurui 10 Pack LM2596 DC-DC Adjustable Buck Converter
