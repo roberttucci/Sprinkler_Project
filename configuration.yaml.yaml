@@ -1,0 +1,3 @@
+  - platform: ping
+    hosts:
+      hostone: [esp32_ip_address]
