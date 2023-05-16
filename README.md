@@ -13,7 +13,7 @@ You will probably need to download the schematic files to your PC to zoom in to 
 
 
 Approximate Bill of Materials:
-1 ESP32-WROVER
+1 ESP32-WROVER<cr>
 1 Dafurui 10 Pack LM2596 DC-DC Adjustable Buck Converter
 2 INA219 DC Current Sensor
 2 PCF8575 I/O Expander
