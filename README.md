@@ -30,7 +30,7 @@ Brass Standoffs for breadboard
 2 6-pin MOLEX connectors (or whatever you want to use) for main valves
 2 5-wire 3/4" US Solid SS motorized valves 
 (I used these for the main valves. You do not really need them for the sprinklers to work)
-
+4 12v led indicator lights- 2 red, 2 green
 This is an approximate list of the parts you will need, depending on how you mount and wire the components.
 I used a YUNGUI 15X18.5 cm Solderable Breadboard, 
 Yohii Pin Header Single Row 2.54mm Pitch 12 Terminals Straight Header Sockets,
