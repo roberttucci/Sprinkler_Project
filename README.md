@@ -9,7 +9,7 @@ The files will need to be tweaked to support your entity naming and such.
 
 The HA Lovelace code will also need to be edited to match the entity names to match your HA entity assignments.
 
-
+You will probably need to download the schematic files to your PC to zoom in to read.
 
 
 
